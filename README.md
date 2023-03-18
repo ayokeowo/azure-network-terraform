@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/okeowokunle0713/3b8928d3-2fee-417e-85aa-ce5b2278215f/974a68d4-c948-4d24-8d81-2f24eafb5f08/_apis/work/boardbadge/11177ec9-72bf-4b76-8c6a-24990dec13cc)](https://dev.azure.com/okeowokunle0713/3b8928d3-2fee-417e-85aa-ce5b2278215f/_boards/board/t/974a68d4-c948-4d24-8d81-2f24eafb5f08/Microsoft.RequirementCategory)
 
 # Azure Network Architecture - Terraform Examples <!-- omit from toc -->
 
